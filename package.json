@@ -1,0 +1,23 @@
+{
+  "name": "https://github.com/oskaremilsson/express-handlebars-boilerplate",
+  "version": "1.0.0",
+  "description": "exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskaremilsson/express-handlebars-boilerplate.git"
+  },
+  "author": "oskar emilsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskaremilsson/express-handlebars-boilerplate/issues"
+  },
+  "homepage": "https://github.com/oskaremilsson/express-handlebars-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
